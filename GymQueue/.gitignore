@@ -42,5 +42,5 @@ Desktop.ini
 .DS_Store
 
 # Explicit project paths
-GymQueue/bin/
-GymQueue/obj/
+GymQueue/bin/*
+GymQueue/obj/*
