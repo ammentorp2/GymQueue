@@ -47,3 +47,6 @@ GymQueue/obj/*
 
 GymQueue\bin\*
 GymQueue\obj\*
+
+# .NET 10 build outputs
+**/net10.0/**
