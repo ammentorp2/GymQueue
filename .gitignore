@@ -3,7 +3,7 @@
 [Oo]bj/
 
 # Visual Studio files
-.vs/
+.vs/*
 *.user
 *.suo
 *.userosscache
