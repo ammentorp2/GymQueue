@@ -1,0 +1,56 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/*
+**/.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+!**/[Pp]ackages/repositories.config
+
+# Logs
+*.log
+
+# Visual Studio cache/options
+.vscode/
+.idea/
+
+# Auto-generated files
+*.generated.cs
+*.Designer.cs
+
+# Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# Coverage
+*.coverage
+*.coveragexml
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Explicit project paths
+GymQueue/bin/*
+GymQueue/obj/*
+
+GymQueue\bin\*
+GymQueue\obj\*
+
+# .NET 10 build outputs
+**/net10.0/**
+
+# images
+assets/*
