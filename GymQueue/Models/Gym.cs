@@ -6,6 +6,8 @@ namespace GymQueue.Models
     {
         public long Id { get; set; }
 
+        public string Name { get; set; } = string.Empty;
+
         // Unique collection of equipment in the gym
         public HashSet<Equipment> Equipment { get; set; } = new();
 

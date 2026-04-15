@@ -5,6 +5,10 @@ namespace GymQueue.Models
 {
     public class Party
     {
+        public long Id { get; set; }
+
+        public string Name { get; set; } = string.Empty;
+
         public DateTime CheckInTime { get; set; }
 
         // Unique collection of users in the party
